@@ -11,7 +11,7 @@ class Calculator
 	System.out.println("Enter your command");
   	String operation=sr.next();
         boolean  exit=false;
-
+       System.out.println("");
 while(!exit)
 {
 	switch(operation)
